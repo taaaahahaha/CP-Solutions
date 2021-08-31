@@ -1,3 +1,5 @@
+# Taaha Multani @ https://github.com/taaaahahaha
+
 def chefora(n):
     n = str(n)
     d = len(n)

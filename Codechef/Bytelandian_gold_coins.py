@@ -1,3 +1,5 @@
+# Taaha Multani @ https://github.com/taaaahahaha
+
 d = dict()
 
 def xd(n):

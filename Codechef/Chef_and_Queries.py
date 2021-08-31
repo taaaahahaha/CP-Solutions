@@ -1,3 +1,5 @@
+# Taaha Multani @ https://github.com/taaaahahaha
+
 n,no_q = map(int,input().strip().split())
 Ai = [int(i) for i in input().split()]
 for i in range(no_q):

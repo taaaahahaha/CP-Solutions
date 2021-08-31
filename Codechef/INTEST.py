@@ -1,3 +1,5 @@
+# Taaha Multani @ https://github.com/taaaahahaha
+
 n,k = map(int,input().strip().split())
 count = 0
 for i in range(n):

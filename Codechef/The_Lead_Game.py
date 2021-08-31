@@ -1,3 +1,5 @@
+# Taaha Multani @ https://github.com/taaaahahaha
+
 a,b,m1,m2=0,0,0,0
 lead=0
 player_won = []

@@ -1,3 +1,5 @@
+# Taaha Multani @ https://github.com/taaaahahaha
+
 for _ in range(int(input())):
     n = int(input())
     sum=0
