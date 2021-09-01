@@ -1,0 +1,5 @@
+a,b = (float(i) for i in input().split())
+print("Sum",a+b)
+print("Diff",a-b)
+print("Quotient",a/b)
+print("Remander",a%b)
